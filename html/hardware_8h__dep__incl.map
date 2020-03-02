@@ -1,0 +1,6 @@
+<map id="source/hardware.h" name="source/hardware.h">
+<area shape="rect" id="node2" href="$buttons__lights__doors_8c.html" title="implementation of functions for buttons, lights and doors " alt="" coords="5,80,152,121"/>
+<area shape="rect" id="node3" href="$elevator__logic_8c.html" title="implementation of functions to create the elevator logic " alt="" coords="177,87,333,114"/>
+<area shape="rect" id="node4" href="$main_8c.html" title="main file for running the elevator code. while loop handling movement of elevator ..." alt="" coords="357,87,461,114"/>
+<area shape="rect" id="node5" href="$safety_8c.html" title="implementation of safety functions " alt="" coords="485,87,597,114"/>
+</map>
